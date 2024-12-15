@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! <br>My name is Corrupted and I'm a computer science student</h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />! <br>My name is Corrupted and I'm a computer science student</h2>
 
 ###
 
