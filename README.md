@@ -71,8 +71,7 @@
 ###
 
 <br clear="both">
-
-![Snake animation](https://github.com/CorruptedSpring/CorruptedSpring/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/CorruptedSpring/CorruptedSpring/output/snake.svg" alt="Snake animation" />
 
 ###
 
