@@ -9,7 +9,6 @@
 
 ###
 <h3 align="center">I am the type of person who will commit & push until they finish the whole project</h3>
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -72,7 +71,6 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/CorruptedSpring/CorruptedSpring/output/snake.svg" alt="Snake animation" />
 
 ###
 
