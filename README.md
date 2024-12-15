@@ -77,13 +77,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=CorruptedSPring&theme=tokyonight" alt="Layout with last medium posts"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/WinterDust">
+  <a href="https://open.spotify.com/user/31ywbw5dznxacp6tbny6hdaenezm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ywbw5dznxacp6tbny6hdaenezm&count=3" alt="Spotify recently played"  />
   </a>
 </div>
