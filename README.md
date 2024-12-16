@@ -9,31 +9,19 @@
 
 ###
 <h3 align="center">Programming Languages I am profficient with :</h3>
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="50">
-  <style>
-    @keyframes slide {
-      0%, 20% { transform: translateX(0); }
-      25%, 45% { transform: translateX(-100%); }
-      50%, 70% { transform: translateX(-200%); }
-      75%, 95% { transform: translateX(-300%); }
-      100% { transform: translateX(-400%); }
-    }
-    .carousel { display: flex; animation: slide 10s infinite; }
-  </style>
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="overflow: hidden; width: 400px;">
-      <div class="carousel" style="display: flex; width: 2000px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<div align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="12 " />  
 </div>
 <h3 align="center">Operating Systems That I mainly use:</h3>
 <div align="center">
