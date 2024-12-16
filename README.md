@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />! <br>My name is Corrupted and I'm a computer science student</h2>
+<h2 align="center">Hi 👋! <br>My name is Corrupted and I'm a computer science student</h2>
 
 ###
 
@@ -6,11 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CorruptedSpring&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CorruptedSpring&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<h3 align="center">I usually like to finish my project before commiting & push</h3>
 
 ###
-
-<div align="left">
+<h3 align="center">Programming languages I am profficient with :</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -27,12 +26,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
+</div>
+<h3 align="center">OS that I mainly use:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
   <img width="12" />
+  <img src=https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg height="30" alt="win 11 logo"  />
+  <img width="12" />
+</div>
+<h3 align="center">Technologies & Frameworks I use:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
@@ -72,11 +77,7 @@
 ###
 
 <br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CorruptedSpring/CorruptedSpring/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CorruptedSpring/CorruptedSpring/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CorruptedSpring/CorruptedSpring/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/CorruptedSpring/CorruptedSpring/output/snake.svg" alt="Snake animation" />
 
 ###
 
