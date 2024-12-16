@@ -75,6 +75,7 @@
   <br clear="both">
   <img src="https://raw.githubusercontent.com/CorruptedSpring/CorruptedSpring/output/snake.svg" alt="Snake animation" />
 </div>
+
 ###
 
 <div align="center">
